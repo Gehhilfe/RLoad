@@ -29,3 +29,5 @@ _autosave-*
 *.gts
 
 **/gerber/
+build
+__pycache__
